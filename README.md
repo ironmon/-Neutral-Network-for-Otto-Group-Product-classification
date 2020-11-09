@@ -1,1 +1,1 @@
-# -Neutral-Network-for-Otto-Group-Product-classification
+# Neutral-Network-for-Otto-Group-Product-classification
